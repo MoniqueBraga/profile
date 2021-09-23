@@ -2,7 +2,7 @@
 - 😸 I’m @MoniqueBraga
 - 👀 I’m interested in learning more about front-end development.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on HTML.
+- 💞️ I’m looking to collaborate on HTML projects.
 
 <!---
 MoniqueBraga/MoniqueBraga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
